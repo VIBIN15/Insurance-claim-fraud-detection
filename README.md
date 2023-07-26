@@ -1,1 +1,1 @@
-# Insurance-claim-fraud-detection
+# Insurance claim fraud detection
